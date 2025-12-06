@@ -50,6 +50,27 @@ The app leverages modern iOS features including `async/await`, CoreLocation, Hap
 * **Dependencies:**
     * [Adhan Swift](https://github.com/batoulapps/adhan-swift) (BatoulApps) - For astronomical calculations.
 
+## 🎨 Design System
+Colors: The app uses a consistent Deep Blue/Teal gradient theme.
+
+Hex Colors: #0F2027, #203A43, #2C5364
+
+Typography: Uses System Fonts with Rounded design for headers and Serif for Quranic text.
+
+Glassmorphism: Heavily utilizes Material.ultraThinMaterial for the tab bar and list items to create a modern, translucent look.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 👤 Author
+Youssef Keram
+
+Copyright © 2025 All rights reserved.
+
 ---
 
 ## 📂 Project Structure
